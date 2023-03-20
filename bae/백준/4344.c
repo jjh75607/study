@@ -15,7 +15,7 @@ int main() {
             sum += score[j];
         }
         
-        double avg = sum / n2;
+        double avg = sum / n
         
         for (int i = 0; i < n2; i++) {
             if (score[i] > avg) {
